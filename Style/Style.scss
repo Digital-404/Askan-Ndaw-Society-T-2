@@ -24,6 +24,7 @@ html {
   position: absolute;
   @include cent();
   background-color: #f1f1f1;
+  color: #000;
   width: 1.5em;
   height: 1.5em;
   border-radius: 50%;
@@ -271,8 +272,12 @@ html {
     }
   }
 
+  .the_info {
+    color: #000;
+  }
   .the_info-2 {
     right: 20%;
+    color: #000;
   }
   .the_description,
   .the_description-video {
