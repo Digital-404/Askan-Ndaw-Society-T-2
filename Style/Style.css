@@ -18,7 +18,6 @@ html {
   justify-content: center;
   align-items: center;
   background-color: #f1f1f1;
-  color: #000;
   width: 1.5em;
   height: 1.5em;
   border-radius: 50%;
@@ -250,12 +249,8 @@ html {
   .The_Image img {
     transform: translate(0%, 0.5%);
   }
-  .the_info {
-    color: #000;
-  }
   .the_info-2 {
     right: 20%;
-    color: #000;
   }
   .the_description,
   .the_description-video {
